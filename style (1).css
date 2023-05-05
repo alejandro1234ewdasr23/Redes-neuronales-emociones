@@ -1,0 +1,43 @@
+body
+{
+    color: azure;
+    
+    background-image: radial-gradient(circle at 50% 50%, #0099ff 0, #0095ff 3.33%, #0090ff 6.67%, #008bff 10%, #0084ff 13.33%, #007cff 16.67%, #5e73ff 20%, #8869fd 23.33%, #a75ef0 26.67%, #bf51e1 30%, #d343d1 33.33%, #e234bf 36.67%, #ee24ac 40%, #f71199 43.33%, #fc0085 46.67%, #ff0072 50%, #ff125f 53.33%, #fc244c 56.67%, #f73439 60%, #f04225 63.33%, #e64f0a 66.67%, #db5b00 70%, #cf6500 73.33%, #c16f00 76.67%, #b27700 80%, #a27e00 83.33%, #918500 86.67%, #7f8a00 90%, #6b8f00 93.33%, #549300 96.67%, #369600 100%);
+}
+span
+{
+    font-size: 30px;
+}
+#camera , #result
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+
+}
+#result_emotion_name , #result_emotion_name2
+{
+color: black;
+}
+.emotion_name
+{
+    font-size:40px;
+}
+.emoji
+{
+    font-size:48px;
+}
+.heading
+{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+label
+{
+    font-size:14px;
+    color: rgb(168, 144, 115);
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+}
